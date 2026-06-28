@@ -31,9 +31,6 @@ The Sales Director lacked real-time visibility into sales performance due to man
 - Market Analysis
 - Dynamic Filters
 
-## Dashboard
-
-(Add screenshots here)
 
 ## Skills Demonstrated
 
